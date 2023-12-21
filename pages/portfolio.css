@@ -1,0 +1,13 @@
+body {
+    background-image: url('../assets/stretched-1920-1080-1308312.jpeg');
+    margin: 5px;
+    padding: 0;
+    color: white; /* Ajout de la couleur blanche pour le texte */
+}
+
+.titre {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}

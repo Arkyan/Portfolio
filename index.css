@@ -1,18 +1,27 @@
 body {
-    background-image: url('assets/stretched-1920-1080-1308312.jpeg');
+    background-image: url('assets/background.jpeg');
     margin: 0;
     padding: 0;
     color: white; /* Ajout de la couleur blanche pour le texte */
+    margin: 5px;
+    font-family: arial;
 }
 
 .logo {
-    width: 150px;
-    height: 150px;
+    width: 180px;
+    height: 180px;
     margin: 0 auto;
     display: block;
 }
     
+.header {
+    font-size: 25px;
+}
 
+.menu {
+    color: white;
+    text-decoration: underline;
+}
 
 
 

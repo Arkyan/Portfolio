@@ -1,0 +1,54 @@
+body {
+    background-image: url('../assets/background.jpeg');
+    margin: 0;
+    padding: 0;
+    color: white; 
+    margin: 5px;
+    font-family: arial;
+}
+
+.titre {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    text-decoration: underline;
+}
+
+.contenu1 {
+    text-decoration: underline;
+}
+
+.contenu2 {
+    text-decoration: underline;
+}
+
+.contenu3 {
+    text-decoration: underline;
+}
+
+.contenu4 {
+    text-decoration: underline;
+}
+
+.contenu5 {
+    text-decoration: underline;
+}
+
+.contenu6 {
+    text-decoration: underline;
+}
+
+.insta{
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.twitch{
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.github{
+    margin-left: 10px;
+    font-size: 20px;
+}

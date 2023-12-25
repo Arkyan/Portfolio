@@ -2,7 +2,7 @@ body {
     background-image: url('assets/background.jpeg');
     margin: 0;
     padding: 0;
-    color: white; /* Ajout de la couleur blanche pour le texte */
+    color: white; 
     margin: 5px;
     font-family: arial;
 }

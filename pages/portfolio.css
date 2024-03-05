@@ -4,6 +4,22 @@ body {
     padding: 0;
     color: white; 
     font-family : arial;
+    max-width: 680px; /* Ajustez cette valeur selon vos besoins */
+    margin: auto; /* Centre le contenu */
+    text-align: center; /* Centre le texte */
+    overflow-wrap: break-word; /* Pour une meilleure gestion du texte long */
+    word-wrap: break-word; /* Pour une compatibilité avec les anciens navigateurs */
+}
+
+.button {
+    background-color: #d68e1a; 
+    color: white;
+    cursor: pointer;
+}
+
+.logowip {
+    width: 30px;
+    height: 30px;
 }
 
 .titre {
@@ -27,4 +43,9 @@ body {
 
 .contenu4 {
     text-decoration: underline;
+}
+
+.logo {
+    width: 20px;
+    height: 20px;
 }

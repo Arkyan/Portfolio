@@ -1,5 +1,7 @@
 body {
-    background-image: url('./assets/backk.jpeg');
+    background-image: url('./assets/background.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;    
     margin: 0;
     padding: 0;
     color: white; 

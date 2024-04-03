@@ -1,10 +1,22 @@
 body {
-    background-image: url('../assets/backk.jpeg');
+    background-image: url('../assets/background.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
     margin: 0;
     padding: 0;
     color: white; 
     margin: 5px;
-    font-family: arial;
+    font-family: arial; 
+    max-width: 680px; /* Ajustez cette valeur selon vos besoins */
+    margin: auto; /* Centre le contenu */
+    text-align: center; /* Centre le texte */
+    overflow-wrap: break-word; /* Pour une meilleure gestion du texte long */
+    word-wrap: break-word; /* Pour une compatibilité avec les anciens navigateurs */
+}
+
+.buton
+{
+    cursor: pointer;
 }
 
 .titre {

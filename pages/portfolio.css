@@ -1,5 +1,7 @@
 body {
-    background-image: url('../assets/backk.jpeg');
+    background-image: url('../assets/background.jpg');
+    background-size: cover;
+    background-repeat:no-repeat;
     margin: 5px;
     padding: 0;
     color: white; 
@@ -11,9 +13,8 @@ body {
     word-wrap: break-word; /* Pour une compatibilité avec les anciens navigateurs */
 }
 
-.button {
-    background-color: #d68e1a; 
-    color: white;
+.buton
+{
     cursor: pointer;
 }
 
